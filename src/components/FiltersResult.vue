@@ -87,9 +87,7 @@ export default class FiltersResult extends Vue {
   display: inline-block;
   padding: 0px 8px;
   margin-right: 5px;
-  position: static;
-  width: 130px;
-  height: 24px;
+  position: static;   height: 24px;
   left: 0px;
   background-color: #ff9d6f;
   border-radius: 4px;
